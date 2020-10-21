@@ -1,7 +1,7 @@
 # Double-pendulum Simulation
 A double-pendulum simulation using the runge-kutta method.
 
-ルンゲクッタ法を用いた二重振り子のシミュレーションです。
+ルンゲ・クッタ法を用いた二重振り子のシミュレーションです。
 
 # Demo
 https://astroid-apps.github.io/double-pendulum-simulation/dist/
