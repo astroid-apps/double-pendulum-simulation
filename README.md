@@ -16,3 +16,5 @@ https://astroid-apps.github.io/double-pendulum-simulation/dist/
 https://en.wikipedia.org/wiki/Double_pendulum
 
 https://github.com/astroid-apps/pendulum-simulation
+
+https://github.com/astroid-apps/runge-kutta
