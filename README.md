@@ -8,9 +8,9 @@ https://astroid-apps.github.io/double-pendulum-simulation/dist/
 
 # Model
 
-![Model](./model.gif)
+![Model](./img/model.gif)
 
-![Equation](./equation.gif)
+![Equation](./img/equation.gif)
 
 # Link
 https://github.com/astroid-apps/pendulum-simulation
