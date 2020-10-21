@@ -6,5 +6,11 @@ A double-pendulum simulation using the runge-kutta method.
 # Demo
 https://astroid-apps.github.io/double-pendulum-simulation/dist/
 
+# Model
+
+![Model](./model.gif)
+
+![Equation](./equation.gif)
+
 # Link
 https://github.com/astroid-apps/pendulum-simulation
