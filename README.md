@@ -1,4 +1,4 @@
-# Double pendulum Simulation
+# Double Pendulum Simulation
 A double pendulum simulation using the runge-kutta method.
 
 ルンゲ・クッタ法を用いた二重振り子のシミュレーションです。
